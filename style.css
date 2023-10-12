@@ -136,7 +136,8 @@ h1 {
 .center_top {
     background-color: #000;
     word-wrap: break-word;
-    height: 249px;
+    max-height: 249px;
+    width: 100%;
     padding: 0;
 }
 
